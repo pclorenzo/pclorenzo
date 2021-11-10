@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @pclorenzo
-- 👀 I’m interested in C, C++, C# and Java
+- 👋 Hi, I’m Pablo, alias @pclorenzo
+- 👀 I’m interested in ASM, C, C++, C# and Java
 - 🌱 I’m currently learning to be a dad
 
 
