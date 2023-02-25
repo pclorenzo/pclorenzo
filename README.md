@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Pablo, alias @pclorenzo
+- 👋 Hi, I’m Pablo
 - 👀 I’m interested in ASM, C, C++, C# and Java
-- 👶 I’m currently learning to be a dad
+- 👶 Learning to be a dad
 
 
 <!---
